@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CTorressjr
+- 👀 I’m interested in Java, Kotlin, Python e Flutter
+- 🌱 I’m currently learning Kotlin com springboot, MySQL, Js com React Native
+- 💞️ I’m looking to collaborate on em projetos com os elementos já citádos acima.
+- 📫 How to reach me https://www.linkedin.com/in/carlostorressjr/

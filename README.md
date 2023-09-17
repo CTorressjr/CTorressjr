@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CTorressjr
 - 👀 I’m interested in Java, C#, Javascript
-- 🌱 I’m currently learning C#, MySQL, Java
+- 🌱 I’m currently learning C#, MySQL, Java, MS SQL
 - 💞️ I’m looking to collaborate on em projetos com os elementos já citádos acima.
 - 📫 How to reach me https://www.linkedin.com/in/carlostorressjr/
 

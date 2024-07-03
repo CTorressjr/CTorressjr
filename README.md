@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CTorressjr
-- 👀 I’m interested in Java with Spring boot, Python
+- 👀 I’m interested in Java with Spring boot and Python
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate in projects with elements quoted above.
 - 📫 How to reach me https://www.linkedin.com/in/carlostorressjr/

@@ -1,4 +1,4 @@
-<h1 align="center">Carlos Torres — AI Solutions Architect</h1>
+<h1 align="center">Carlos Torres — Analista de Desenvolvimento de Sistemas</h1>
 
 <p align="center">
   Recife, BR &nbsp;·&nbsp;
@@ -11,7 +11,7 @@
 
 Analista de Desenvolvimento de Sistemas com foco em **IA aplicada a domínios críticos**.
 
-Atuo na interseção entre engenharia de software, automação inteligente e sistemas legados — construindo soluções LLM de produção para o mercado contábil/fiscal brasileiro, onde a combinação de conhecimento de domínio + engenharia é o diferenciador real.
+Atuo na interseção entre engenharia de software, automação inteligente e sistemas legados — construindo soluções LLM ou código de produção para o mercado contábil/fiscal brasileiro, onde a combinação de conhecimento de domínio + engenharia é o diferenciador real.
 
 Atualmente preparando transição para mestrado em IA (2027).
 

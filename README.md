@@ -1,7 +1,7 @@
-<h1 align="center">Carlos Torres — Analista de Desenvolvimento de Sistemas</h1>
+<h1 align="center">Carlos Torres — AI Solutions Architect</h1>
 
 <p align="center">
-  Recife, BR &nbsp;·&nbsp;
+  Recife, BR → &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/carlostorressjr/">LinkedIn</a>
 </p>
 
@@ -11,9 +11,9 @@
 
 Analista de Desenvolvimento de Sistemas com foco em **IA aplicada a domínios críticos**.
 
-Atuo na interseção entre engenharia de software, automação inteligente e sistemas legados — construindo soluções LLM ou código de produção para o mercado contábil/fiscal brasileiro, onde a combinação de conhecimento de domínio + engenharia é o diferenciador real.
+Atuo na interseção entre engenharia de software, automação inteligente e sistemas legados — construindo soluções LLM de produção para o mercado contábil/fiscal brasileiro, onde a combinação de conhecimento de domínio + engenharia é o diferenciador real.
 
-Atualmente preparando transição para mestrado em IA (2027).
+Atualmente preparando transição para mestrado em IA na Europa (2025).
 
 ---
 
@@ -22,9 +22,10 @@ Atualmente preparando transição para mestrado em IA (2027).
 | Projeto | Descrição | Impacto |
 |---------|-----------|---------|
 | [auditor-folha-pagamento](https://github.com/CTorressjr/auditor-folha-pagamento) | Sistema LLM de auditoria de folha CLT, pró-labore e estagiários — legislação 2026 | 30 min → < 2 min por folha |
-| [importacao-contabil-dominio](https://github.com/CTorressjr/importacao-contabil-dominio) | Gerador de lançamentos contábeis no layout Domínio Web ERP com anti-alucinação | Elimina erros de importação manual e reduz tempo de produção em excel de 3 dias → < 6 min |
-| [MIT-JSON](https://github.com/CTorressjr/MIT-JSON) | Gerador de JSON para o MIT (IRPJ, CSLL, PIS/COFINS com SCP) a partir de planilhas Excel, com GUI | Elimina montagem manual do JSON fiscal e reduz tempo de produção 2 dias → < 4 min|
+| [importacao-contabil-dominio](https://github.com/CTorressjr/importacao-contabil-dominio) | Gerador de lançamentos contábeis no layout Domínio Web ERP com anti-alucinação | Elimina erros de importação manual |
+| [MIT-JSON](https://github.com/CTorressjr/MIT-JSON) | Gerador de JSON para o MIT (IRPJ, CSLL, PIS/COFINS com SCP) a partir de planilhas Excel, com GUI | Elimina montagem manual do JSON fiscal |
 | [Creation-from-archive-to-import-ECF-validator](https://github.com/CTorressjr/Creation-from-archive-to-import-ECF-validator) | Gerador em lote de ECF Retificadora no layout SPED para múltiplas SCPs — IRPJ/CSLL Lucro Presumido, 4 trimestres, contagem automática de registros 9900 | Processa 1600 SCP em segundos |
+
 ---
 
 ## Stack
@@ -70,6 +71,5 @@ Atualmente preparando transição para mestrado em IA (2027).
 ## Formação
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 📚 Pós-graduação em Engenharia de Software 
+- 📚 Pós-graduação em Engenharia de Software (em andamento)
 - 🎯 Mestrado em IA — 2027 (em preparação)
-

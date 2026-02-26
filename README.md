@@ -24,6 +24,7 @@ Atualmente preparando transição para mestrado em IA (2027).
 | [auditor-folha-pagamento](https://github.com/CTorressjr/auditor-folha-pagamento) | Sistema LLM de auditoria de folha CLT, pró-labore e estagiários — legislação 2026 | 30 min → < 2 min por folha |
 | [importacao-contabil-dominio](https://github.com/CTorressjr/importacao-contabil-dominio) | Gerador de lançamentos contábeis no layout Domínio Web ERP com anti-alucinação | Elimina erros de importação manual e reduz tempo de produção em excel de 3 dias → < 6 min |
 | [MIT-JSON](https://github.com/CTorressjr/MIT-JSON) | Gerador de JSON para o MIT (IRPJ, CSLL, PIS/COFINS com SCP) a partir de planilhas Excel, com GUI | Elimina montagem manual do JSON fiscal e reduz tempo de produção 2 dias → < 4 min|
+| [Creation-from-archive-to-import-ECF-validator](https://github.com/CTorressjr/Creation-from-archive-to-import-ECF-validator) | Gerador em lote de ECF Retificadora no layout SPED para múltiplas SCPs — IRPJ/CSLL Lucro Presumido, 4 trimestres, contagem automática de registros 9900 | Processa 1600 SCP em segundos |
 ---
 
 ## Stack

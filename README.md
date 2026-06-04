@@ -71,5 +71,5 @@ Atualmente preparando transição para mestrado em IA.
 ## Formação
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 📚 Pós-graduação em Engenharia de Software (em andamento)
+- 📚 Pós-graduação em Engenharia de Software
 - 🎯 Mestrado em IA — 2027 (em preparação)

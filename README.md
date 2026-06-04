@@ -13,7 +13,7 @@ Analista de Desenvolvimento de Sistemas com foco em **IA aplicada a domínios cr
 
 Atuo na interseção entre engenharia de software, automação inteligente e sistemas legados — construindo soluções LLM de produção para o mercado contábil/fiscal brasileiro, onde a combinação de conhecimento de domínio + engenharia é o diferenciador real.
 
-Atualmente preparando transição para mestrado em IA na Europa (2025).
+Atualmente preparando transição para mestrado em IA.
 
 ---
 

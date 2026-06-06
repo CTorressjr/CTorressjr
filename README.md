@@ -21,6 +21,7 @@ Atualmente preparando transição para mestrado em IA.
 
 | Projeto | Descrição | Impacto |
 |---------|-----------|---------|
+| [ERP-always-online](https://github.com/CTorressjr/ERP-always-online) | Automação headless que abre, faz login e mantém o Domínio Web (e o desktop) sempre online — vigilante 24/7 com reinício automático e autologon | Elimina downtime do ERP sem intervenção manual |
 | [auditor-folha-pagamento](https://github.com/CTorressjr/auditor-folha-pagamento) | Sistema LLM de auditoria de folha CLT, pró-labore e estagiários — legislação 2026 | 30 min → < 2 min por folha |
 | [importacao-contabil-dominio](https://github.com/CTorressjr/importacao-contabil-dominio) | Gerador de lançamentos contábeis no layout Domínio Web ERP com anti-alucinação | Elimina erros de importação manual |
 | [MIT-JSON](https://github.com/CTorressjr/MIT-JSON) | Gerador de JSON para o MIT (IRPJ, CSLL, PIS/COFINS com SCP) a partir de planilhas Excel, com GUI | Elimina montagem manual do JSON fiscal |

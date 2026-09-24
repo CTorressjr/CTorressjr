@@ -36,9 +36,8 @@ Atualmente preparando transição para mestrado em IA.
 **IA & Automação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logo=anthropic&logoColor=white)
+![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-D97706?style=flat&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 
 **Backend & Infra**
 
@@ -50,6 +49,7 @@ Atualmente preparando transição para mestrado em IA.
 **Sistemas & Redes**
 
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 

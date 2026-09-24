@@ -26,6 +26,8 @@ Atualmente preparando transição para mestrado em IA.
 | [importacao-contabil-dominio](https://github.com/CTorressjr/importacao-contabil-dominio) | Gerador de lançamentos contábeis no layout Domínio Web ERP com anti-alucinação | Elimina erros de importação manual |
 | [MIT-JSON](https://github.com/CTorressjr/MIT-JSON) | Gerador de JSON para o MIT (IRPJ, CSLL, PIS/COFINS com SCP) a partir de planilhas Excel, com GUI | Elimina montagem manual do JSON fiscal |
 | [Creation-from-archive-to-import-ECF-validator](https://github.com/CTorressjr/Creation-from-archive-to-import-ECF-validator) | Gerador em lote de ECF Retificadora no layout SPED para múltiplas SCPs — IRPJ/CSLL Lucro Presumido, 4 trimestres, contagem automática de registros 9900 | Processa 1600 SCP em segundos |
+| [contract-agent-docx-generator](https://github.com/CTorressjr/contract-agent-docx-generator) | Watcher 24/7 que gera contrato .docx + PDF a partir de planilha (Forms → Sheets), com gateway de conferência campo a campo pós-merge | Elimina contrato com erro de digitação não detectado |
+| [document-reader-pipeline](https://github.com/CTorressjr/document-reader-pipeline) | Pipeline de leitura de documento pessoal em 5 etapas, com triagem 100% local que reduz o volume de dado sensível antes de qualquer chamada a modelo de visão | Minimiza exposição de dado pessoal em automação de RH |
 
 ---
 

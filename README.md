@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Torres — AI Solutions Architect</h1>
 
 <p align="center">
-  Recife, BR → &nbsp;·&nbsp;
+  Recife, BR &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/carlostorressjr/">LinkedIn</a>
 </p>
 
